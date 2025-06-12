@@ -14,7 +14,7 @@
 
 
 // define GPIO pin to use
-#define WS2812_PIN 18
+#define WS2812_PIN 28
 
 #define LED_COUNT 12
 /*
